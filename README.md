@@ -1,4 +1,4 @@
-# supernote-crossword
+ # supernote-crossword
 Downloads tomorrow's crosswords into a designated Dropbox folder.
 
 ## Instructions:
